@@ -1,18 +1,10 @@
 # DataScienceMaster
 Welcome to my collection of Jupyter notebooks for learning Data Science.
 
-1. [Linear Regression](notebooks/01 - LinearRegression)
+1. [Linear Regression](notebooks/01%20-%20LinearRegression)
 
-1.1 [UniVariate Linear Regression](notebooks/01 - LinearRegression/01 - LinearRegression - UniVariate.ipynb)
+1.1 [UniVariate Linear Regression](notebooks/01%20-%20LinearRegression/01%20-%20LinearRegression%20-%20UniVariate.ipynb) - simple regression on single variables for prediction on a small dataset
 
-[1](notebooks/01%20-%20LinearRegression/01%20-%20LinearRegression%20-%20UniVariate.ipynb)
+1.2 [MultiVariate Linear Regression](notebooks/01%20-%20LinearRegression/02%20-%20LinearRegression%20-%20MultiVariate.ipynb) - same dataset, but using multi variables for prediction
 
-[2](notebooks/01%20-%20LinearRegression/01%20-%20LinearRegression%20-%20UniVariate.ipynb)
-
-[3](notebooks/01 - LinearRegression/01 - LinearRegression% - 0UniVariate.ipynb)
-
-[google.com](https://www.google.com)
-
-[self](README.md)
-
-[self2](https://github.com/alexander-pospiech-inovex/DataScienceMaster/blob/master/README.md)
+1.3 [Linear Regression on simple data](notebooks/01%20-%20LinearRegression/03%20-%20LinearRegression%20-%20Simple%20Data.ipynb) - even simpler dataset for deep understanding
